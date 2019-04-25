@@ -1,4 +1,5 @@
-# Eloquent JavaScript 3rd edition, by Marijn Haverbeke
+# Eloquent JavaScript 
+##3rd edition, by Marijn Haverbeke
 
 This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or get your own paperback copy.
 
