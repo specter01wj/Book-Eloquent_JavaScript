@@ -10,7 +10,7 @@ This is a book about JavaScript, programming, and the wonders of the digital. Yo
 Written by Marijn Haverbeke.
 
 ## Contents
-|:-------:|:--------------:|
+|:-------|:--------------:|
 ||Introduction||
 
 ||**(Part 1: Language)**||
