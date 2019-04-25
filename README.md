@@ -12,7 +12,7 @@ Written by Marijn Haverbeke.
 ## Contents
 
 | No. | Chapters       |
-|:-------|:--------------:|
+|:-------:|:--------------:|
 ||Introduction||
 ||**(Part 1: Language)**||
 |1.| Values, Types, and Operators||
