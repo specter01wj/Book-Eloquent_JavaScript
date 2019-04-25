@@ -9,40 +9,41 @@ This is a book about JavaScript, programming, and the wonders of the digital. Yo
 
 Written by Marijn Haverbeke.
 
-Contents
+## Contents
 Introduction
-(Part 1: Language)Values, Types, and Operators
-Program Structure
-Functions
-Data Structures: Objects and Arrays
-Higher-order Functions
-The Secret Life of Objects
-Project: A Robot
-Bugs and Errors
-Regular Expressions
-Modules
-Asynchronous Programming
-Project: A Programming Language
-(Part 2: Browser)JavaScript and the Browser
-The Document Object Model
-Handling Events
-Project: A Platform Game
-Drawing on Canvas
-HTTP and Forms
-Project: A Pixel Art Editor
-(Part 3: Node)Node.js
-Project: Skill-Sharing Website
+
+(Part 1: Language)
+1. Values, Types, and Operators
+2. Program Structure
+3. Functions
+4. Data Structures: Objects and Arrays
+5. Higher-order Functions
+6. The Secret Life of Objects
+7. Project: A Robot
+8. Bugs and Errors
+9. Regular Expressions
+10. Modules
+11. Asynchronous Programming
+12. Project: A Programming Language
+
+(Part 2: Browser)
+13. JavaScript and the Browser
+14. The Document Object Model
+15. Handling Events
+16. Project: A Platform Game
+17. Drawing on Canvas
+18. HTTP and Forms
+19. Project: A Pixel Art Editor
+
+(Part 3: Node)
+20. Node.js
+21. Project: Skill-Sharing Website
+
+
 A paper version of Eloquent JavaScript, including an additional chapter, is being brought out by No Starch Press.
 
-Other pages
-Code sandbox and exercise solutions
-Errata for the paper book
-This book as a single PDF file (& small version for mobile)
-This book as an EPUB file
-This book as a MOBI (Kindle) file
-The first edition of the book
-The second edition of the book
-Translations of the second edition
-Български (Bulgarian)
-Português (Portuguese)
-Русский (Russian)
+Licensed under a Creative Commons attribution-noncommercial license. All code in this book may also be considered licensed under an MIT license.
+
+Illustrations by various artists: Cover and chapter illustrations by Madalina Tantareanu. Pixel art in Chapters 7 and 16 by Antonio Perdomo Pastor. Regular expression diagrams in Chapter 9 generated with regexper.com by Jeff Avallone. Village photograph in Chapter 11 by Fabrice Creuzot. Game concept for Chapter 15 by Thomas Palef.
+
+The third edition was made possible by 325 financial backers, most notably Nextjournal and Holberton School. The second edition was supported by 454 backers, with significant contributions from Mozilla, Hack Reactor, and Ghostery.
