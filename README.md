@@ -14,7 +14,6 @@ Written by Marijn Haverbeke.
 | No. | Chapters       |
 |:-------|:--------------:|
 ||Introduction||
-
 ||**(Part 1: Language)**||
 |1.| Values, Types, and Operators||
 |2.| Program Structure||
